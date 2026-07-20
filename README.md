@@ -1,24 +1,9 @@
 # 📊 Sales Analysis using Python
 
 ## 📌 Project Overview
+This project analyzes sales data using Python to identify business insights through data cleaning, exploratory data analysis (EDA), and visualization.
 
-This project analyzes sales data using Python to identify business trends, customer purchasing behavior, and sales performance. The project includes data cleaning, exploratory data analysis, business insights, and data visualization.
-
----
-
-## 🎯 Objectives
-
-- Clean the sales dataset
-- Analyze sales performance
-- Identify top-selling products
-- Analyze regional sales
-- Analyze payment methods
-- Generate business insights
-- Visualize the results
-
----
-
-## 🛠️ Tools & Libraries
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -27,57 +12,36 @@ This project analyzes sales data using Python to identify business trends, custo
 - Seaborn
 - Jupyter Notebook
 
----
-
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```
-Sales_Analysis_Project/
+Sales_Analysis_Project
 │
-├── data/
-├── charts/
-├── notebooks/
+├── charts
+├── data
+├── notebooks
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
 
----
-
-## 📊 Analysis Performed
-
-- Data Cleaning
-- Category-wise Sales Analysis
-- Region-wise Sales Analysis
-- Customer Type Analysis
-- Payment Method Analysis
-- Monthly Sales Analysis
-- Top Products Analysis
-- Highest & Lowest Sales Analysis
-
----
-
 ## 📈 Visualizations
 
-- Line Chart
-- Bar Chart
-- Horizontal Bar Chart
-- Pie Chart
-- Histogram
-- Count Plot
-- Box Plot
-
----
+- Monthly Sales Trend
+- Category-wise Sales
+- Category-wise Sales Percentage
+- Distribution of Sales
+- Payment Method Count
+- Top 10 Products
+- Box Plot of Total Sales
 
 ## 💡 Business Insights
 
-- Electronics generated the highest sales.
-- Pune recorded the highest regional sales.
+- Electronics generated the highest revenue.
+- Pune recorded the highest sales.
 - COD was the most preferred payment method.
-- Laptop was the highest-selling product.
+- Laptop was the best-selling product.
 
----
+## 🚀 Author
 
-## 🚀 Conclusion
-
-This project demonstrates how Python can be used for data cleaning, analysis, visualization, and generating business insights to support business decision-making.
+Ponchithra
